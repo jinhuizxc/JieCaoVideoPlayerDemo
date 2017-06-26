@@ -19,8 +19,6 @@
 ----
 权限说明
 
-'''xml
-
 <!--用于进行网络定位-->
 	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 	<!--用于访问GPS定位-->
@@ -39,5 +37,3 @@
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
-
-'''
